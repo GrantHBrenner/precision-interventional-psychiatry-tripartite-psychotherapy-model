@@ -16,6 +16,7 @@ Originally published in **Neuromodec Journal (2026)**.
 
 ## 🔬 Peer Review & Feedback
 Deep appreciation to the following for their time and insights:
+* **Marom Bikson**
 * **Karl Friston**
 * **Michael Levin**
 * **Adarsh Gupta**
